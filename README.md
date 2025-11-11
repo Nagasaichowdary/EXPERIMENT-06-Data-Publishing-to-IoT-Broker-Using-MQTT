@@ -1,5 +1,5 @@
 # EXPERIMENT-06-Data-Publishing-to-IoT-Broker-Using-MQTT3
- ## NAME: Aditya Naga Sai
+ ## NAME: P. Aditya Naga Sai
  ## REGISTER NUMBER: 212223110036
  ## DEPARTMENT: IOT
  ## YEAR: 3rd
